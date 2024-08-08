@@ -1,0 +1,22 @@
+{
+    "InsuranceCompanies": {
+     "TopCompanies": [
+      {
+       "No": "1",
+       "Name": "Berkshire Hathaway",
+       "Market Capitalization": "$661 B"
+      },
+      {
+        "No": "2",
+        "Name": "Copamy 2",
+        "Market Capitalization": "$421 B"
+       },
+       {
+        "No": "2",
+        "Name": "Company 3",
+        "Market Capitalization": "$134 B"
+       }
+       ],
+       "Time": "Dec 2022"
+     }
+    }
